@@ -8,17 +8,17 @@ Conventional Commits Guide
 - description: mô tả ngắn gọn hành động
 
 2. Các loại type phổ biến
-   Type Ý nghĩa
-   feat Thêm tính năng mới
-   fix Sửa lỗi
-   docs Cập nhật tài liệu
-   style Format code, không đổi logic
-   refactor Viết lại code, không đổi chức năng
-   perf Tối ưu hiệu năng
-   test Thêm hoặc sửa test
-   build Thay đổi build system
-   ci Thay đổi cấu hình CI
-   chore Công việc khác
+
+feat: Thêm tính năng mới
+fix: Sửa lỗi
+docs: Cập nhật tài liệu
+style: Format code, không đổi logic
+refactor: Viết lại code, không đổi chức năng
+perf: Tối ưu hiệu năng
+test: Thêm hoặc sửa test
+build: Thay đổi build system
+ci: Thay đổi cấu hình CI
+chore: Công việc khác
 
 3. Ví dụ
 
